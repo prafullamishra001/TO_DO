@@ -9,7 +9,10 @@ body{
 
 }
 
+.todo-text{
+    margin-left: 5px;
 
+}
 
 .todo-container {
     width: 300px;

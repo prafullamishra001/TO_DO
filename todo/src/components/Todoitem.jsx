@@ -6,7 +6,7 @@ const Todoitem = () => {
         <li className='todo-item'>
             <span>
             <input type="checkbox" />
-            <span>Eat</span>
+            <span className='todo-text'>Eat</span>
             </span>
             <p>...</p>
         </li>
