@@ -3,9 +3,11 @@ import React from 'react';
 const Todoitem = () => {
 
     return (
-        <li>
+        <li className='todo-item'>
+            <span>
             <input type="checkbox" />
-            <p>Eat</p>
+            <span>Eat</span>
+            </span>
             <p>...</p>
         </li>
     )
