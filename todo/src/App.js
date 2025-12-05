@@ -9,7 +9,7 @@
         <Header/>
         <Todoitem text="Eat" />
         <Todoitem text="Sleep" />
-        <Todoitem text="Code" />
+        <Todoitem completed={true}text="Code" />
         <Todoitem text="Repeat" />
         <Todoitem text="Relax" />
         <Button/>
