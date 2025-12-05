@@ -7,11 +7,11 @@
     return (
       <div className='todo-container'>
         <Header/>
-        <Todoitem/>
-        <Todoitem/>
-        <Todoitem/>
-        <Todoitem/>
-        <Todoitem/>
+        <Todoitem text="Eat" />
+        <Todoitem text="Sleep" />
+        <Todoitem text="Code" />
+        <Todoitem text="Repeat" />
+        <Todoitem text="Relax" />
         <Button/>
         
       </div>
